@@ -4,6 +4,11 @@
 // - `TypeError`: Indica que o código esperava receber um dado de um determinado tipo, tal qual uma string de texto, mas recebeu outro, como um número, booleano ou null.
 
 
-const num;
+// const num;
 
-console.log(num);
+// console.log(num);
+
+// tratamento de erro"
+
+
+console.error('Deu erro!')
